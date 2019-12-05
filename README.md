@@ -2,7 +2,7 @@
 
 Grafana dashboards are stored this repository.
 
-## Go Metrics #10826
+## Go Metrics [#10826](https://grafana.com/grafana/dashboards/10826)
 
 ### Metrics
 
